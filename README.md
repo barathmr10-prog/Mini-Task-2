@@ -1,4 +1,4 @@
-# barathmr10-prog-ElevatedLabs---Task2---23-09-25
+# Mini Task 2
 I have created three function for read, update and remove to do task from each file.
 
 Initially I requested user to create a file for integrity and I proceeded further
